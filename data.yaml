@@ -1,0 +1,11 @@
+path: "C:\\Users\\HP\\Desktop\\Final Project_model\\project_model\\dataset"  # Root path of your dataset
+train: "C:\\Users\\HP\\Desktop\\Final Project_model\\project_model\\dataset\\images"  # Path to training images (relative to 'path')
+val: "C:\\Users\\HP\\Desktop\\Final Project_model\\project_model\\dataset\\images\\val"  # Path to validation images (relative to 'path')
+
+# Define class labels
+names:
+  0: drone
+  1: person
+  2: vehicle
+  
+  
